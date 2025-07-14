@@ -198,3 +198,6 @@ If you find this work helpful in your research or use our code/models, please co
   primaryClass = {cs.CV}
 }
 ```
+### ！！！ Serious Statement ！！！
+
+It is noted that **[GSplat](https://github.com/nerfstudio-project/gsplat)**, as a well established package, implements the function of generating Orthophoto on 21th August, 2024, and we acknowlege the importance of GSplat in the community of 3DGS research. However, we would like to seriouly state that our code on orthogonal splatting was originally and succesfully developed by our group on mid of June, 2024，we release our code a little late due to project arrangement and scientific paper preparation. We, as a photogrammetric group, full investigate the basic relevant concepts of spatial resolution and mapping scale in our version, which are not fully considered in GSPLAT. This is seriouly stated.  
