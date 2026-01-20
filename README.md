@@ -186,6 +186,11 @@ python ortho_splat.py \
   ```
 Note that the *FAGK Gaussian kernel* is applied in the code. You can apply the same logic to other Gaussian-based methods, which might yield even better and better results.
 
+### 💻 TDOM-Evaluater
+This is an automated software designed to automatically evaluate TDOM under the GCP of the DroneMap dataset.
+https://ai.studio/apps/drive/1G3k1xEE3VkxLPPlnCDXDdpMTGU3tiORh
+😊It was created with the help of Gemini3.
+
 ###  📚 Citation
 If you find this work helpful in your research or use our code/models, please consider citing our paper:
 ```
