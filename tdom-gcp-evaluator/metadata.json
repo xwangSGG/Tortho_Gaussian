@@ -1,0 +1,5 @@
+{
+  "name": "TDOM-GCP Evaluator",
+  "description": "A quantitative evaluation tool for 3DGS-TDOM generation. It projects GPS coordinates onto customizable planes and compares them with pixel coordinates using rigid alignment and distance ratio methods.",
+  "requestFramePermissions": []
+}
