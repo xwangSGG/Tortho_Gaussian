@@ -194,12 +194,12 @@ https://ai.studio/apps/drive/1G3k1xEE3VkxLPPlnCDXDdpMTGU3tiORh
 ###  📚 Citation
 If you find this work helpful in your research or use our code/models, please consider citing our paper:
 ```
-@misc{Tortho-Gaussian,
+@article{Tortho-Gaussian,
   title       = {Tortho-Gaussian: Splatting True Digital Orthophoto Maps},
-  author      = {Xin Wang and Wendi Zhang and Hong Xie and Haibin Ai and Qiangqiang Yuan and Zongqian Zhan},
-  year        = {2024},
-  archivePrefix = {arXiv},
-  eprint      = {2144.19594},
-  primaryClass = {cs.CV}
+  author      = {Xin Wang and Xiang Wang and Wendi Zhang and Hong Xie and Haibin Ai and Qiangqiang Yuan and Zongqian Zhan},
+  journal     = {Geo-Spatial Information Science},
+  pages={1--24},
+  year={2026},
+  doi={10.1080/10095020.2026.2622788}
 }
 ```
